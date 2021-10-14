@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Pete Carroll says Russell Wilson has a 'badly sprained' finger, won't put timetable on quarterback's return - CBS Sports",
+    "description": "Willson left Thursday's loss to the Rams early in the fourth quarter",
+    "url": "https://www.cbssports.com/nfl/news/pete-carroll-says-russell-wilson-has-a-badly-sprained-finger-wont-put-timetable-on-quarterbacks-return/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/10/08/48e14e57-23a1-4b05-8dd0-2d644ca34c3b/thumbnail/1200x675/8bd661a4a0aef16c88b934383c5ef4d2/russell-wilson-seahawks.jpg",
+    "publishedAt": "2021-10-08T04:34:00Z",
+    "content": "Russell Wilson has never missed a game in his NFL career, even though his streak of 149 consecutive starts may be in jeopardy. Wilson, who left the Seattle Seahawks 26-17 loss to the Los Angeles Rams… [+2145 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NBCSports.com"
+    },
+    "author": "Mike Florio",
+    "title": "Friday hearing coming in La’el Collins’s lawsuit against NFL - NBC Sports - NFL",
+    "description": "The Cowboys could have tackle La'el Collins back on the team for Sunday’s game against the Giants. As noted by Daniel Wallach on Twitter (and as confirmed by PFT), Judge Amos L. Mazzant will hold a hearing on Friday in connection with Collins’s motion for a t…",
+    "url": "https://profootballtalk.nbcsports.com/2021/10/07/friday-hearing-coming-in-lael-collinss-lawsuit-against-nfl/",
+    "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/10/GettyImages-1183188844-e1633548035485.jpg",
+    "publishedAt": "2021-10-08T02:10:00Z",
+    "content": "The Cowboys could have tackle La'el Collins back on the team for Sunday’s game against the Giants.\r\nAs noted by Daniel Wallach on Twitter (and as confirmed by PFT), Judge Amos L. Mazzant will hold a … [+1091 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Dot Esports"
+    },
+    "author": "Kate Irwin",
+    "title": "Pokimane speaks out on Twitch payout leaks and lack of diversity - Dot Esports",
+    "description": "Pokimane calls out Twitch viewers as the reason why the platform isn't more diverse at the top.",
+    "url": "https://dotesports.com/streaming/news/pokimane-speaks-out-on-twitch-payout-leaks-and-lack-of-diversity/",
+    "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2021/10/07171503/pokimane1-768x380.png",
+    "publishedAt": "2021-10-07T22:52:18Z",
+    "content": "Before playing VALORANT on her Twitch stream yesterday, Pokimane took some time to respond to the Twitch data that was leaked on top streamer payouts earlier on Oct. 6. \r\nOn her stream, Pokimane said… [+3712 chars]"
+    }
+    ]
+    }
